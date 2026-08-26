@@ -1,0 +1,7 @@
+id = "doom-zedburn"
+name = "Doom Zedburn"
+version = "0.1.0"
+schema_version = 1
+authors = ["Ja Morphy", "Bozhidar Batsov and zenburn-emacs contributors"]
+description = "A faithful port of zenburn-emacs for the Zed editor."
+repository = "https://github.com/jsrgb/doom-zedburn"
