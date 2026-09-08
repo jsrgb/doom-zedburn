@@ -104,7 +104,7 @@
 
         "editor.background": "#3F3F3F",
         "editor.foreground": "#DCDCCC",
-        "editor.gutter.background": "#383838",
+        "editor.gutter.background": "#3F3F3F",
         "editor.subheader.background": "#2B2B2B",
         "editor.active_line.background": "#383838",
         "editor.highlighted_line.background": "#494949",
